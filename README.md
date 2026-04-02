@@ -5,7 +5,7 @@ O presente programa foi elaborado para apresentação de um dos portfólios que 
 
 
 ## 🤖 Tecnologias Utilizadas:
-- Ferramenta de Desenvolvimento **[Google Cloud Shell Editor](https://console.cloud.google.com/)** para desenvolver na núvem a criação do programa;
+- Ferramenta de Desenvolvimento **[Google Cloud Shell Editor](https://console.cloud.google.com/)** para desenvolver na núvem a criação do programa-serve como backup caso precise;
 
 - Linguagem de Programação: **[Python](https://docs.python.org/)** para escrever todo o código.
 
