@@ -1,7 +1,7 @@
 # Programa: Calculando IMC 
 
 ## 📒 Descrição:
-O presente programa foi elaborado para apresentação de um dos portfólios que a faculdade Anhanguera solicitou com o fito avaliação tendo o programa o objetivo de calcular o IMC utilizando a ferramenta Google Cloud Shell Editor tendo como linguagem principal, O Python.
+- O presente programa foi elaborado para apresentação de um dos portfólios que a faculdade Anhanguera solicitou com o fito avaliação tendo o programa o objetivo de calcular o IMC utilizando a ferramenta Google Cloud Shell Editor tendo como linguagem principal, O Python.
 
 
 ## 🤖 Tecnologias Utilizadas:
